@@ -8,3 +8,7 @@ Mini Test
 ## Run Test Cases
 - Clone repository: `git clone <test branch>`
 - Run the tests
+
+## Logging
+- Full logs can be found in the directory "src/main/resources/logs/application.log"
+- Logging is implemented using log4j
